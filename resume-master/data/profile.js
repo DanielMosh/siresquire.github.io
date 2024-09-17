@@ -1,14 +1,14 @@
 const profileData = {
   title: "Resume",
-  name: "Aminu Mohammed",
+  name: "Daniel Kwabena Ampomsah",
   sub_title: "System Administrator and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
+    intro: `Junior Software Engineer with a year of full stack development experience. Effective coomunicator and collaborator dedicated to continuous learning and innovation.`,
     contact: {
       email: "ghana@gmail.com",
-      phone: "+233-9151413108",
-      address: "UK",
+      phone: "+233-208332124",
+      address: "303-cp road Awoshie, Accra GH",
     },
   },
   links: [
